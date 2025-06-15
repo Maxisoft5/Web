@@ -1,10 +1,6 @@
 self.assetsManifest = {
-  "version": "M/cHLUhQ",
+  "version": "KI1BNs5z",
   "assets": [
-    {
-      "hash": "sha256-LIeWP7bbyCymQexInJvxjB+7XacwGMEIno6ayT/jBKc=",
-      "url": "404.html"
-    },
     {
       "hash": "sha256-u1EyD+PLlByJkip5YaiFzOIvGfkMXzC1q8v+eAyzjoI=",
       "url": "Pages/CalendarTimeOff.razor.js"
@@ -1786,8 +1782,8 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.AspNetCore.Components.Web.2i74du5ulb.wasm"
     },
     {
-      "hash": "sha256-cLNhtA2MTdHURkrvGMPkakE97FRr+svei8ud/nl80BY=",
-      "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.oi3vtf5g63.wasm"
+      "hash": "sha256-IbgWK6FhmrcGtCtfHXX17lzRXbAvdHSCigkwimQwlLc=",
+      "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.d5q3txnpzv.wasm"
     },
     {
       "hash": "sha256-e/oJ0PCZOYwAOy+Kxz7gHh2Mn9F73Q7vhytg+mox4xg=",
@@ -2414,8 +2410,8 @@ self.assetsManifest = {
       "url": "_framework/System.f0fr8djds0.wasm"
     },
     {
-      "hash": "sha256-zkq/vgVwW8G75E4IbWYZW8/AQ401eS0J6lpwXfzPc+8=",
-      "url": "_framework/TimeOffManager.ClientWeb.i0qu2dwti3.wasm"
+      "hash": "sha256-tekcaScf3380B0D2Ksj9cylOKsFGfze0fWQ0azepAc4=",
+      "url": "_framework/TimeOffManager.ClientWeb.ti1sf1mmdf.wasm"
     },
     {
       "hash": "sha256-RI7s743uL9kAPquRliai9QMcKouXK8Ygstv1QoktcSI=",
@@ -2434,7 +2430,7 @@ self.assetsManifest = {
       "url": "_framework/TimeOffManager.WebComponents.dop6vp2i3b.wasm"
     },
     {
-      "hash": "sha256-OqeiJTDJWut4Vzqq6sYCwfeTXwFnb6RcVS+0AQaoGt0=",
+      "hash": "sha256-KKLMgb1IgrWZHxhwBGQoZsN+Tw/HThWpCKVoeai2SVY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -2502,7 +2498,7 @@ self.assetsManifest = {
       "url": "images/time-off-manager-landing-1.jpg"
     },
     {
-      "hash": "sha256-nCQdXoiwzgUqifU4+wwaWY2WM6YZFKUO5gAPIarb0ak=",
+      "hash": "sha256-UIpOwydl/n2Wooef1uLjE/JCXb/GG3NbcA8dxdxsa8Y=",
       "url": "index.html"
     },
     {
@@ -2686,7 +2682,7 @@ self.assetsManifest = {
       "url": "lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "hash": "sha256-tZvxpjATBnGsgLvwUi7MqIrE1mmEDcNC29tLWgcGMss=",
+      "hash": "sha256-4rRZm1yGIWVqr7w52VRCCNTpWfNYOITNDFHL6aw1pjk=",
       "url": "manifest.webmanifest"
     },
     {
