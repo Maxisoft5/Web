@@ -1,0 +1,40 @@
+@import '_content/TimeOffManager.WebComponents/TimeOffManager.WebComponents.spt833e1l2.bundle.scp.css';
+
+/* /Layout/MainLayout.razor.rz.scp.css */
+
+.landing-page[b-41qfx863hj] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* /Pages/CalendarTimeOff.razor.rz.scp.css */
+/* /Pages/TableTimeOff.razor.rz.scp.css */
+/* /Pages/Teams.razor.rz.scp.css */
+.total-teams-card[b-6qcpuofo6o] {
+    width:300px;
+    background: white;
+    border: 1px solid #dfe5ec;
+    box-sizing: border-box;
+    padding:1rem;
+    border-radius:calc(4px *3);
+    height: 100px;
+}
+
+.total-teams-label[b-6qcpuofo6o] {
+    font-size:0.625rem;
+    font-weight:400;
+    font-family: Roboto, sans-serif;
+    color: #1b1d20;
+    text-transform:uppercase;
+}
+
+.total-teams-value[b-6qcpuofo6o] {
+    font-weight:400;
+    color: #1b1d20;
+    font-family: Roboto, sans-serif;
+    font-size: clamp(1.25rem, 1.667vw, 1.5rem);
+}
+/* /Pages/WorkSpace.razor.rz.scp.css */
