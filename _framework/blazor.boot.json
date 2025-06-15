@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TimeOffManager.ClientWeb",
   "resources": {
-    "hash": "sha256-ClBMRYFTwDJIEEqUAhu8H86xTirWEcPy01y6RmPoiL4=",
+    "hash": "sha256-C1lxbKvqhPv9cP5VzlfOEov0oZjH01rXtddCa2FGEho=",
     "fingerprinting": {
       "AntDesign.ra678j78g4.wasm": "AntDesign.wasm",
       "AutoMapper.totk3ghnq9.wasm": "AutoMapper.wasm",
@@ -181,7 +181,7 @@
       "System.Xml.ReaderWriter.82ni0m18k3.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.oub2evbg8q.wasm": "System.Xml.XDocument.wasm",
       "System.Xml.XmlSerializer.oesiruv20m.wasm": "System.Xml.XmlSerializer.wasm",
-      "TimeOffManager.ClientWeb.8j5s654ah4.wasm": "TimeOffManager.ClientWeb.wasm",
+      "TimeOffManager.ClientWeb.w476ma1wm0.wasm": "TimeOffManager.ClientWeb.wasm",
       "TimeOffManager.Core.k0bu3u6a2g.wasm": "TimeOffManager.Core.wasm",
       "TimeOffManager.DataAccess.w3ghvsb2ag.wasm": "TimeOffManager.DataAccess.wasm",
       "TimeOffManager.Domain.zevbmxx8ck.wasm": "TimeOffManager.Domain.wasm",
@@ -389,7 +389,7 @@
       "System.Xml.ReaderWriter.82ni0m18k3.wasm": "sha256-QG1YPwYbLlBuCHaguP3u+l4svCyHH8LoajHqkQrudyo=",
       "System.Xml.XDocument.oub2evbg8q.wasm": "sha256-gP1TeGAiURTU29+CscXoj4Z6SPkenimtvI4X63/deI0=",
       "System.Xml.XmlSerializer.oesiruv20m.wasm": "sha256-UAOYCTRaOqMR106xQkLjcFH2OSFqaNO2P4mPev8xw/U=",
-      "TimeOffManager.ClientWeb.8j5s654ah4.wasm": "sha256-/DrxLaG8YYCte0pSlGcZ+Jh0CtCK6mJHT51D94AKdSY=",
+      "TimeOffManager.ClientWeb.w476ma1wm0.wasm": "sha256-oLfPmbUAZjMkqZiq0A3XqqQJyBEEqFI3q3USvdcZxeM=",
       "TimeOffManager.Core.k0bu3u6a2g.wasm": "sha256-RI7s743uL9kAPquRliai9QMcKouXK8Ygstv1QoktcSI=",
       "TimeOffManager.DataAccess.w3ghvsb2ag.wasm": "sha256-NPXSfI4rD/T3xt7qUdcpP7i+O5lihjcX1LwW8Fs9MDw=",
       "TimeOffManager.Domain.zevbmxx8ck.wasm": "sha256-NYLVfHBb3CCM9j8dL4Bd+9Z31TwpjaARd9tOoK3fGmc=",
