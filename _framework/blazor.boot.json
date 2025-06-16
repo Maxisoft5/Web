@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TimeOffManager.ClientWeb",
   "resources": {
-    "hash": "sha256-LkjcB7sHwlkICDn/7sO2dRPy0tN5qRGP++qd1kHutec=",
+    "hash": "sha256-tBEuM3L5U1/Lpbmp5TN3sXlvjampZjZuobP+Be0XCk4=",
     "fingerprinting": {
       "AntDesign.ra678j78g4.wasm": "AntDesign.wasm",
       "AutoMapper.totk3ghnq9.wasm": "AutoMapper.wasm",
@@ -181,11 +181,11 @@
       "System.Xml.ReaderWriter.82ni0m18k3.wasm": "System.Xml.ReaderWriter.wasm",
       "System.Xml.XDocument.oub2evbg8q.wasm": "System.Xml.XDocument.wasm",
       "System.Xml.XmlSerializer.oesiruv20m.wasm": "System.Xml.XmlSerializer.wasm",
-      "TimeOffManager.ClientWeb.ti1sf1mmdf.wasm": "TimeOffManager.ClientWeb.wasm",
-      "TimeOffManager.Core.k0bu3u6a2g.wasm": "TimeOffManager.Core.wasm",
-      "TimeOffManager.DataAccess.w3ghvsb2ag.wasm": "TimeOffManager.DataAccess.wasm",
+      "TimeOffManager.ClientWeb.dj3oqrjscs.wasm": "TimeOffManager.ClientWeb.wasm",
+      "TimeOffManager.Core.k4l9o1mwu0.wasm": "TimeOffManager.Core.wasm",
+      "TimeOffManager.DataAccess.u4e1vif5e3.wasm": "TimeOffManager.DataAccess.wasm",
       "TimeOffManager.Domain.zevbmxx8ck.wasm": "TimeOffManager.Domain.wasm",
-      "TimeOffManager.WebComponents.dop6vp2i3b.wasm": "TimeOffManager.WebComponents.wasm",
+      "TimeOffManager.WebComponents.3tgphq476l.wasm": "TimeOffManager.WebComponents.wasm",
       "dotnet.native.cz7xty0zqu.js": "dotnet.native.js",
       "dotnet.native.62zy0k8xcv.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -389,11 +389,11 @@
       "System.Xml.ReaderWriter.82ni0m18k3.wasm": "sha256-QG1YPwYbLlBuCHaguP3u+l4svCyHH8LoajHqkQrudyo=",
       "System.Xml.XDocument.oub2evbg8q.wasm": "sha256-gP1TeGAiURTU29+CscXoj4Z6SPkenimtvI4X63/deI0=",
       "System.Xml.XmlSerializer.oesiruv20m.wasm": "sha256-UAOYCTRaOqMR106xQkLjcFH2OSFqaNO2P4mPev8xw/U=",
-      "TimeOffManager.ClientWeb.ti1sf1mmdf.wasm": "sha256-tekcaScf3380B0D2Ksj9cylOKsFGfze0fWQ0azepAc4=",
-      "TimeOffManager.Core.k0bu3u6a2g.wasm": "sha256-RI7s743uL9kAPquRliai9QMcKouXK8Ygstv1QoktcSI=",
-      "TimeOffManager.DataAccess.w3ghvsb2ag.wasm": "sha256-NPXSfI4rD/T3xt7qUdcpP7i+O5lihjcX1LwW8Fs9MDw=",
+      "TimeOffManager.ClientWeb.dj3oqrjscs.wasm": "sha256-FwKsNUu1hdH9PLeQwtglsQ6VTh7GmSbNKjYOx5/EhF8=",
+      "TimeOffManager.Core.k4l9o1mwu0.wasm": "sha256-NO9JZg5EALcG8ZZb4XXAdffB3x4JOEeJUgUdV2WUCi0=",
+      "TimeOffManager.DataAccess.u4e1vif5e3.wasm": "sha256-zjRukWN61f1O1hTRKMvrLOpYZMhTg+S08ZVdKuNViYo=",
       "TimeOffManager.Domain.zevbmxx8ck.wasm": "sha256-NYLVfHBb3CCM9j8dL4Bd+9Z31TwpjaARd9tOoK3fGmc=",
-      "TimeOffManager.WebComponents.dop6vp2i3b.wasm": "sha256-gxVZXgoeOZ37/IexXUJIz2LifkLu/HTfM6Ge52HrZ9U="
+      "TimeOffManager.WebComponents.3tgphq476l.wasm": "sha256-V3pU0qMRBngx/IiDD+DPbyASiLgyH2e5kRdAVMa7xmQ="
     },
     "libraryInitializers": {
       "_content/AntDesign/AntDesign.d05dnpfa5s.lib.module.js": "sha256-Y7oJ7/rOncGnhfBrDAPc045cW9bF4cp1INbpZClDsxM="
